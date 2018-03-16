@@ -1,5 +1,5 @@
 // -------------- Libraries --------------
-#include <local_config.h>
+#include <LocalConfig.h>
 #include <EEPROM.h>
 #include <ESP8266WiFi.h>
 

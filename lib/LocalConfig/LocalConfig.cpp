@@ -1,4 +1,4 @@
-#include <local_config.h>
+#include <LocalConfig.h>
 #include <EEPROM.h>
 #include <HardwareSerial.h>
 
