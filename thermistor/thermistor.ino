@@ -1,6 +1,7 @@
 #include <EEPROM.h>
 #include <PubSubClient.h>
 #include <SetupIotMaison.h>
+#include <math.h>
 
 // which analog pin to connect
 #define THERMISTORPIN A0

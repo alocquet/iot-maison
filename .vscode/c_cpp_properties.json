@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/alocquet/.arduino15/packages/esp8266/hardware/esp8266/2.3.0-rc2/cores/esp8266/",
+                "/home/alocquet/dev/projects/perso/poc/Arduino/libraries/PubSubClient/src",
+                "/home/alocquet/.arduino15/packages/esp8266/hardware/esp8266/2.3.0-rc2/libraries/EEPROM",
+                "/home/alocquet/dev/tools/arduino-1.8.3/libraries/WiFi/src",
+                "/home/alocquet/.arduino15/packages/esp8266/hardware/esp8266/2.3.0-rc2/libraries/ESP8266WiFi/src",
+                "/home/alocquet/.arduino15/packages/esp8266/hardware/esp8266/2.3.0-rc2/libraries/esp8266/src",
+                "${workspaceRoot}/lib/SetupIotMaison",
+                "${workspaceRoot}/lib/LocalConfig",
+                "/home/alocquet/.arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/1.20.0-26-gb404fb9-2/lib/gcc/xtensa-lx106-elf/4.8.2/include/",
+                "/home/alocquet/.arduino15/packages/esp8266/hardware/esp8266/2.3.0-rc2/tools/sdk/include/",
+                "/home/alocquet/.arduino15/packages/esp8266/hardware/esp8266/2.3.0-rc2/variants/nodemcu/",
+                "/home/alocquet/.arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/1.20.0-26-gb404fb9-2/xtensa-lx106-elf/include/c++/4.8.2/",
+                "/home/alocquet/.arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/1.20.0-26-gb404fb9-2/xtensa-lx106-elf/include/c++/4.8.2/xtensa-lx106-elf/",
+                "/home/alocquet/.arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/1.20.0-26-gb404fb9-2/xtensa-lx106-elf/include/                "
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "/home/alocquet/.arduino15/packages/esp8266/hardware/esp8266/2.3.0-rc2/cores/esp8266/",
+                    "/home/alocquet/dev/projects/perso/poc/Arduino/libraries/PubSubClient/src",
+                    "/home/alocquet/.arduino15/packages/esp8266/hardware/esp8266/2.3.0-rc2/libraries/EEPROM",
+                    "/home/alocquet/dev/tools/arduino-1.8.3/libraries/WiFi/src",
+                    "/home/alocquet/.arduino15/packages/esp8266/hardware/esp8266/2.3.0-rc2/libraries/ESP8266WiFi/src",
+                    "/home/alocquet/.arduino15/packages/esp8266/hardware/esp8266/2.3.0-rc2/libraries/esp8266/src"
+                ]
+            },
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 3
+}
