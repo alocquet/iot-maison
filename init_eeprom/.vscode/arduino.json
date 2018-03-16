@@ -1,0 +1,7 @@
+{
+    "sketch": "init_eeprom.ino",
+    "port": "/dev/ttyUSB1",
+    "board": "adafruit:samd:adafruit_feather_m0",
+    "output": "../build",
+    "debugger": "jlink"
+}
